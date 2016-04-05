@@ -1,7 +1,7 @@
 # Websites
 
 #Website 1-Theatre
-#HTMl
+#HTML
 <!DOCTYPE html>
 <html>
 
